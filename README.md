@@ -1,2 +1,2 @@
 # ubermap-config-files
-Configuration files for Ableton Push hack ubermap by tomduncalf
+Configuration files for Ableton Push hack [ubermap](https://github.com/tomduncalf/ubermap) by tomduncalf 
